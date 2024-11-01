@@ -7,14 +7,6 @@
  * for handling different HTTP methods (GET, POST, PUT, DELETE) and can be customized to perform
  * specific operations based on incoming requests.
  *
- * Purpose:
- * To provide a foundation for building custom API endpoints in NetSuite, enabling external systems
- * to interact with NetSuite data and functionality.
- *
- * Modules Required:
- * - N/task: Provides functionality to create and manage scheduled scripts and map/reduce scripts.
- * - N/record: Allows loading, creating, and manipulating NetSuite records.
- *
  * HTTP Methods Supported:
  * - GET: Retrieve data
  * - POST: Create new data
